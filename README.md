@@ -21,6 +21,8 @@ run npm start in terminal
 
 use for a social network application
 
+https://user-images.githubusercontent.com/92942302/160304222-5824399a-6c7e-4f66-8743-2eb8f9fe10a4.mp4
+
 ## License
 
 none
@@ -40,4 +42,4 @@ If you're wanting to contribute please see below!
 If you have any further questions you can contact me through my github or email!
 
 GitHub:  wiffin
-Email:   wiffin@ian.com
+Email:   ian@wiffin.com
